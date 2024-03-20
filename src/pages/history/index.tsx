@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { HistoryContainer, HistoryList, Status } from "./styles";
-import { CyclesContext } from "../../contexts/cycles-contexts";
+import { CyclesContext } from "../../contexts/cycles-context";
 import { formatDistanceToNow } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 

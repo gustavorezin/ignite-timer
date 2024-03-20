@@ -12,7 +12,7 @@ import {
   StopCountdownButton,
 } from "./styles";
 
-import { CyclesContext } from "../../contexts/cycles-contexts";
+import { CyclesContext } from "../../contexts/cycles-context";
 import { Countdown } from "./components/countdown";
 import { NewCycleForm } from "./components/new-cycle-form";
 
